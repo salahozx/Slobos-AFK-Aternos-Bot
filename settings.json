@@ -8,7 +8,7 @@
   "server": {
     "ip": "OMSERVER.aternos.me:59612",
     "port": 59612,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
