@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "OMSERVER.aternos.me",
+    "ip": "OMSERVER.aternos.me:59612",
     "port": 59612,
     "version": "",
     "try-creative": false
